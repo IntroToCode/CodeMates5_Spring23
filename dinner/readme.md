@@ -6,6 +6,18 @@
 
 ## Ingredients:
 
+2     1 1/2"-thick New York strip steaks (about 1 1/2 lb. total)
+2	tablespoons vegetable oil 
+4	garlic cloves (2 smashed, 2 thinly sliced)
+3	sprigs fresh tarragon
+3	tablespoons unsalted butter, divided
+1 	large shallot, finely chopped
+1/3 	cup cognac, dry sherry, or brandy
+1/2 	cup heavy cream
+1	tablespoon whole black peppercorns
+	freshly ground black pepper (course)
+	Kosher salt
+	flaky sea salt
 
 ## Equipment needed:
 
