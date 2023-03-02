@@ -1,4 +1,4 @@
-# Replace with recipe name
+# Chocolate Chip Pancakes
 
 ## Servings: 
 
@@ -14,8 +14,8 @@
 
 
 
-### Notes:
+### Notes: Sourced from https://www.food.com/recipe/chocolate-chip-pancakes-45935
 
 
 
-### Codemates #
+### Codemates Team 5: Uriel Greenstein, Andrew Hurley, Anna Kim, Maria Molina, Jahnavi Shah
