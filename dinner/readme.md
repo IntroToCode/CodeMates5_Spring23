@@ -21,6 +21,13 @@
 
 ## Equipment needed:
 
+1 	large cast iron skillet
+1	cutting board
+1 	mortar and pestle
+1 	ovenproof platter
+1 	paring knife or utility knife
+1 	sauce spoon
+1 	instant-read thermometer
 
 ## Steps for preparation:
 
