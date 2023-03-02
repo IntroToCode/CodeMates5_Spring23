@@ -17,8 +17,12 @@
 Mult. dry measuring cups and spoons
 
 ## Steps for preparation:
-
-
+1.   Preheat griddle or skillet with medium heat setting.
+2.   Combine flour, sugar, cinnamon, baking powder, and salt in a large mixing bowl.
+3.   Mix together wet ingredients in a small bowl and beat into dry mixture until smooth.
+4.   Fold in chocolate chips.
+5.   Pour or spoon batter into skillet in desired quantity.
+6.   Use spatula to flip when the top begins to bubble, then cook 1 additional minute.
 
 ### Notes: Sourced from https://www.food.com/recipe/chocolate-chip-pancakes-45935
 
