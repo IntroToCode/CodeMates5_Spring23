@@ -2,7 +2,7 @@
 
 ## Servings: 
 
-## Time to prepare:  15 mins
+## Time to prepare: 15 mins
 
 ## Ingredients:
 
