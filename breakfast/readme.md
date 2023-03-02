@@ -1,6 +1,6 @@
 # Chocolate Chip Pancakes
 
-## Servings: 
+## Servings: 12 pancakes
 
 ## Time to prepare: 15 mins
 
@@ -9,12 +9,12 @@
 
 ## Equipment needed:
 
-1 	griddle or nonstick skillet
-1 	large mixing bowl w/ pour spout
-1 	small bowl
-1 	whisk
-1 	liquid measuring cup
-Mult. dry measuring cups and spoons
+- 1 	griddle or nonstick skillet
+- 1 	large mixing bowl w/ pour spout
+- 1 	small bowl
+- 1 	whisk
+- 1 	liquid measuring cup
+- Mult. dry measuring cups and spoons
 
 ## Steps for preparation:
 1.   Preheat griddle or skillet with medium heat setting.
