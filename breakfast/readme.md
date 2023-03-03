@@ -1,11 +1,25 @@
 # Chocolate Chip Pancakes
 
-## Servings: 12 pancakes
+## Servings: 
 
-## Time to prepare: 15 mins
+12 pancakes
+
+## Time to prepare: 
+
+15 mins
 
 ## Ingredients:
 
+- 1 1/4	cups flour
+- 1 	tablespoon sugar
+- 1/4 	teaspoon cinnamon
+- 1     tablespoon baking powder
+- 1/4   teaspoon salt
+- 2	eggs
+- 1 	cup milk
+- 4	tablespoons melted butter
+- 3/4	teaspoon vanilla
+- 1/3 	cup chocolate chips 
 
 ## Equipment needed:
 
@@ -28,4 +42,4 @@
 
 
 
-### Codemates Team 5: Uriel Greenstein, Andrew Hurley, Anna Kim, Maria Molina, Jahnavi Shah
+### Codemates Team 5: Uriel Greenstein, Andrew Hurley, Anna Kim, Rosario Molina, Jahnavi Shah
