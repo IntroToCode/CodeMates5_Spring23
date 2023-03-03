@@ -1,8 +1,12 @@
-# Replace with recipe name
+# Strip Steak au Poivre
 
-## Servings: 4
+## Servings: 
 
-## Time to prepare: 15 mins
+4 servings
+
+## Time to prepare: 
+
+15 mins
 
 ## Ingredients:
 
@@ -47,4 +51,4 @@
 
 
 
-### Codemates Team 5: Uriel Greenstein, Andrew Hurley, Anna Kim, Maria Molina, Jahnavi Shah
+### Codemates Team 5: Uriel Greenstein, Andrew Hurley, Anna Kim, Rosario Molina, Jahnavi Shah
